@@ -1,5 +1,8 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
+# zip file
+../../Ex_Files_Angular_Node_Apps_Auth_Upd/
+
 # compiled output
 /dist
 /tmp
